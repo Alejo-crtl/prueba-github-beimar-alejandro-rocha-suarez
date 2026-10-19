@@ -5,4 +5,14 @@ Prueba de GitHUb
 
 - Qué es Git y GitHub.
 - Cómo crear ramas y pull requests.
-- Cómo documentar con Markdown
+- Cómo documentar con Markdown.
+
+  
+Más recursos: [Microsoft Learn](https://learn.microsoft.com)
+
+```bash
+git init
+git add .
+git commit -m "Mi primer commit"
+```
+
